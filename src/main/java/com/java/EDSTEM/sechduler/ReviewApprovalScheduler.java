@@ -1,4 +1,4 @@
-package com.example.restaurantreviewapi.scheduler;
+package com.java.EDSTEM.sechduler;
 
 import com.java.EDSTEM.service.ReviewService;
 import org.springframework.scheduling.annotation.Scheduled;
